@@ -8,6 +8,7 @@ on:
       - "tests/**"
       - "scripts/**"
       - ".github/workflows/build.yml"
+      - ".github/workflows/update-polymaker.yml"
   push:
     branches:
       - main
@@ -19,6 +20,7 @@ on:
       - "tests/**"
       - "scripts/**"
       - ".github/workflows/build.yml"
+      - ".github/workflows/update-polymaker.yml"
   workflow_dispatch:
 
 permissions:
