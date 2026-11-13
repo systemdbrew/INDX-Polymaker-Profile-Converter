@@ -21,14 +21,14 @@
     {
       "filename": "Panchroma PLA Celestial @Prusa Core One.ini",
       "path": "preset/Panchroma PLA Celestial/Prusa/Core One/PrusaSlicer/Panchroma PLA Celestial @Prusa Core One.ini",
-      "sha256": "25de34377e93c1b98b973ae93e4b15909c08cbd107e3d6920978aa288721a303",
-      "updatedAt": "2026-05-06T13:59:02+08:00"
+      "sha256": "df85d301968cccd1de8c58df1e4477d65a118fa1543c512cfe5f4056ed7111c9",
+      "updatedAt": "2026-10-13T17:17:31+08:00"
     },
     {
       "filename": "Panchroma PLA Galaxy @Prusa Core One.ini",
       "path": "preset/Panchroma PLA Galaxy/Prusa/Core One/PrusaSlicer/Panchroma PLA Galaxy @Prusa Core One.ini",
-      "sha256": "f4ea9d59f377c7ca4d244d6e5aaff37f69b00b342b21d9763bc4d4cd6078c28e",
-      "updatedAt": "2026-05-06T13:59:02+08:00"
+      "sha256": "b801a9f369710803e6ec881c7acc7a4c1802f50cdb3dabb430c975ae08e1d747",
+      "updatedAt": "2026-10-13T17:17:31+08:00"
     },
     {
       "filename": "Panchroma PLA Glow @Prusa Core One.ini",
@@ -39,8 +39,8 @@
     {
       "filename": "Panchroma PLA Luminous @Prusa Core One.ini",
       "path": "preset/Panchroma PLA Luminous/Prusa/Core One/PrusaSlicer/Panchroma PLA Luminous @Prusa Core One.ini",
-      "sha256": "bc96d57b405ffa6d3dea319469b6fa220ef0fbf5ccf5a05c49b495fee597760e",
-      "updatedAt": "2026-05-06T13:59:02+08:00"
+      "sha256": "9ca07310d502c8115768130ec988192fcc0db5b56a76ffe00bc2b2d7818e8cb1",
+      "updatedAt": "2026-10-13T17:17:31+08:00"
     },
     {
       "filename": "Panchroma PLA Marble @Prusa Core One.ini",
@@ -63,8 +63,8 @@
     {
       "filename": "Panchroma PLA Neon @Prusa Core One.ini",
       "path": "preset/Panchroma PLA Neon/Prusa/Core One/PrusaSlicer/Panchroma PLA Neon @Prusa Core One.ini",
-      "sha256": "27fed282e895257af37366b16fc189db5f0cf61369f72846e72afc0a6730bf8e",
-      "updatedAt": "2026-05-06T13:59:02+08:00"
+      "sha256": "8397188d4f0c8352007c055fe415b410485a3f5ccb9caf9c9d794d4682cb520e",
+      "updatedAt": "2026-10-13T17:17:31+08:00"
     },
     {
       "filename": "Panchroma PLA Satin @Prusa Core One.ini",
@@ -81,14 +81,14 @@
     {
       "filename": "Panchroma PLA Starlight @Prusa Core One.ini",
       "path": "preset/Panchroma PLA Starlight/Prusa/Core One/PrusaSlicer/Panchroma PLA Starlight @Prusa Core One.ini",
-      "sha256": "090b4df1f8c2a9bfed692ed30f5346a5dc0b623bd99f61f27a48034852dd76ff",
-      "updatedAt": "2026-05-06T13:59:02+08:00"
+      "sha256": "edbbe29f40b2ce46afdeea9eea50386a4c41151e85bbf8850824944f0e6f0970",
+      "updatedAt": "2026-10-13T17:17:31+08:00"
     },
     {
       "filename": "Panchroma PLA Translucent @Prusa Core One.ini",
       "path": "preset/Panchroma PLA Translucent/Prusa/Core One/PrusaSlicer/Panchroma PLA Translucent @Prusa Core One.ini",
-      "sha256": "f7d330de89ab710587009a851453b2a4eeb570f74efe616718cf2a178a18e4ee",
-      "updatedAt": "2026-05-06T13:59:02+08:00"
+      "sha256": "7ba4965849f301064dbe95d1d638060eb71e4d363001f42d5dee027133659962",
+      "updatedAt": "2026-10-13T17:17:31+08:00"
     },
     {
       "filename": "Panchroma PLA UV Shift @Prusa Core One.ini",
@@ -100,7 +100,7 @@
       "filename": "Panchroma PLA @Prusa Core One.ini",
       "path": "preset/Panchroma PLA/Prusa/Core One/PrusaSlicer/Panchroma PLA @Prusa Core One.ini",
       "sha256": "417d4100cd8f930bd44bca0878edebcccfaeaadc8bf7b9fab04061ebda088eae",
-      "updatedAt": "2026-08-14T13:53:57+08:00"
+      "updatedAt": "2026-08-14T15:28:59+08:00"
     },
     {
       "filename": "PolyLite CosPLA @Prusa Core One.ini",
@@ -124,7 +124,7 @@
       "filename": "PolyLite PLA Luminous @Prusa Core One.ini",
       "path": "preset/PolyLite PLA Luminous/Prusa/Core One/PrusaSlicer/PolyLite PLA Luminous @Prusa Core One.ini",
       "sha256": "4e63231128e923d37db6d1fa4237eb688bce4511954b6d2df060558af9d1f33e",
-      "updatedAt": "2026-08-14T13:53:57+08:00"
+      "updatedAt": "2026-08-14T15:28:59+08:00"
     },
     {
       "filename": "PolyLite PLA Neon @Prusa Core One.ini",
